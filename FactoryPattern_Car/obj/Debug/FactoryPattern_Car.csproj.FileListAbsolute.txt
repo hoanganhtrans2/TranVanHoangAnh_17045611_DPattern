@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\bin\Debug\FactoryPattern_Car.exe.config
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\bin\Debug\FactoryPattern_Car.exe
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\bin\Debug\FactoryPattern_Car.pdb
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\obj\Debug\FactoryPattern_Car.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\obj\Debug\FactoryPattern_Car.exe
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\FactoryPattern_Car\obj\Debug\FactoryPattern_Car.pdb

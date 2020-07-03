@@ -1,0 +1,16 @@
+T:\DesignPattern\Singleton\bin\Debug\Singleton.exe.config
+T:\DesignPattern\Singleton\bin\Debug\Singleton.exe
+T:\DesignPattern\Singleton\bin\Debug\Singleton.pdb
+T:\DesignPattern\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+T:\DesignPattern\Singleton\obj\Debug\Singleton.exe
+T:\DesignPattern\Singleton\obj\Debug\Singleton.pdb
+D:\USB2\DesignPattern_DuyLinh\Singleton\bin\Debug\Singleton.exe.config
+D:\USB2\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.exe
+D:\USB2\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.pdb
+D:\USB2\DesignPattern_DuyLinh\Singleton\bin\Debug\Singleton.exe
+D:\USB2\DesignPattern_DuyLinh\Singleton\bin\Debug\Singleton.pdb
+D:\USB2\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.exe
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.pdb
+C:\Users\ASUS\Desktop\DesignPattern_DuyLinh\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

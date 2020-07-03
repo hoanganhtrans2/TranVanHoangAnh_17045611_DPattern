@@ -1,0 +1,11 @@
+T:\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+T:\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+T:\DesignPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+T:\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+T:\DesignPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\obj\Debug\FactoryPattern.pdb
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\USB2\DesignPattern_DuyLinh\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
